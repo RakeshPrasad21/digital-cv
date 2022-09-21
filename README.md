@@ -1,24 +1,13 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
 
-# Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
-> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
-
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+Checkout the live demo [here](https://rakeshprasad21.github.io/digital-cv/).
 
 <table>
   <tr>
-    <th>Desktop</th>
-    <th>Mobile</th>
+    <th>Desktop</th>   
   </tr>
   <tr>
     <td>
-        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
-    </td>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
-    </td>
+      <img width="900" alt="image" src="https://user-images.githubusercontent.com/89901373/191555547-a166c14c-cee3-42cb-b6a1-dd03b94372ff.png">       
+    </td>  
   </tr>
 </table>
