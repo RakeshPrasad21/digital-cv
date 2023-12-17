@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Rakesh Prasad
-    tagline: Azure Developer
+    tagline: Senior Managing Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,12 +45,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Seeking a Azure Developer position where I may be able to recommend my realistic 
+      Seeking a Senior Managing Consultant position where I may be able to recommend my realistic 
       cloud solution for the betterment of the firm. I aim to reach my goals through sincerity, expertise and 
       result-oriented efforts and to earmark a position for myself in the field of IT operations 
       by putting to use my experience and my inter-personal skills.
-        - A Microsoft certified Software Development Professional having more than 10 years of IT/Business Solutions experience.
-        - Having 3+ year experience in Azure.
+        - A Microsoft certified Software Development Professional having more than 12+ years of IT/Business Solutions experience.
+        - Having 5+ year experience in Azure.
 education:
     - degree: MCA
       university: IGNOU
