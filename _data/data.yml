@@ -75,6 +75,19 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+   - role: Senior Managing Consultant 
+      time: Oct 2022 - Present
+      company: Mannai Corp
+      details: |
+        Currently working as a Senior Managing Consultant at Mannai Corp. helping customers implementing 
+        Microsoft Security Products at scale and educating them to derive the best out of it.
+        Key Contribution 
+          - Work closely with SOC automation related to the playbook, Analytical rule.
+          - Expertise in analysis, writing kql , analytical query based on the use case.
+          - Assisted clients in simplifying the architecture via JSON templates, Azure logic app, Function app, Powershell etc.
+          - Identify the prospective issues in the azure migration and suggesting feasible solutions to the clients.
+          - Design solution for various system components using Microsoft Azure
+          - Assist client to implementation of Azure sentinel with different type of connector, Analytics query, hunting queries, logic app and workbook. 
     - role: Azure Developer
       time: Jan 2019 - Present
       company: Open-Systems
