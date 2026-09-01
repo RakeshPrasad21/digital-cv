@@ -158,10 +158,10 @@ experiences:
         process and to prevent the surplus use of resources.        
           - Development of tools with VB.NET, C# and SQL, MySQL, Oracal for monitoring and performance management of network operations.
           - Worked on Shell scripting for execution of different type of command related to telecom.
-projects:
+    projects:
     title: Projects
     intro: >
-      Working as a Technical Architect, responsible for designing, implementing, reviewing, and guiding solutions based on business requirements, user stories, and project objectives. Experienced in Microsoft Security and Cloud technologies, including Microsoft Sentinel, Microsoft Defender, Microsoft Purview, Microsoft Entra ID, Azure, KQL, Azure Logic Apps, PowerShell, APIs, .NET Core, Angular, and MS SQL Server.      
+       You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
     - title: Microsoft Security & Security Operations
       link: "#hook"
