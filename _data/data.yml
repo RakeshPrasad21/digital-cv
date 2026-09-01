@@ -82,10 +82,12 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Technical Architect 
-      time: Jan 2025 - Present
-      company: ICPES Technologies
-      details: |
+  title: Experiences
+  info:
+  - role: Technical Architect 
+    time: Jan 2025 - Present
+    company: ICPES Technologies
+    details: |
         Working as a Technical Architect, leading the design and delivery of cloud, cybersecurity,
         Microsoft security, AI, governance, and data-driven solutions for enterprise clients.
         Responsible for translating business requirements into secure, scalable, and practical
