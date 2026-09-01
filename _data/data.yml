@@ -45,12 +45,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Seeking a Senior Managing Consultant position where I may be able to recommend my realistic 
-      cloud solution for the betterment of the firm. I aim to reach my goals through sincerity, expertise and 
-      result-oriented efforts and to earmark a position for myself in the field of IT operations 
-      by putting to use my experience and my inter-personal skills.
-        - A Microsoft certified Software Development Professional having more than 12+ years of IT/Business Solutions experience.
-        - Having 5+ year experience in Azure.
+      Technical Architect and Microsoft-certified technology professional with 12+ years of experience 
+      designing and delivering enterprise cloud, cybersecurity, Microsoft 365, and data-driven solutions 
+      across Azure and GCP environments. Experienced in leading technical teams, translating business 
+      requirements into practical technology solutions, and driving cloud transformation, security 
+      modernization, governance, and operational improvement initiatives.
+        - Technical Architecture and solution design across Azure and GCP cloud environments.
+        - Microsoft Security: Microsoft Sentinel, Defender, Security Exposure Management, and security operations.
+        - Microsoft Purview, Information Protection, DLP, governance, and compliance solutions.
+        - Cloud security assessments, Zero Trust, IAM, security monitoring, and remediation planning.
+        - Azure/GCP architecture assessment, cloud governance, operational maturity, and FinOps.
+        - Power BI dashboards, security analytics, cloud cost optimization, and executive reporting.
+        - AI governance, AI cost optimization, Copilot/MCP solutions, and AI-enabled enterprise use cases.
+        - Technical leadership, solution reviews, documentation, architecture governance, and team mentoring.
 education:
     - degree: MCA
       university: IGNOU
@@ -75,12 +82,36 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Technical Architect 
+      time: Jan 2025 - Present
+      company: ICPES Technologies
+      details: |
+        Working as a Technical Architect, leading the design and delivery of cloud, cybersecurity,
+        Microsoft security, AI, governance, and data-driven solutions for enterprise clients.
+        Responsible for translating business requirements into secure, scalable, and practical
+        technology architectures while providing technical leadership, solution governance,
+        client advisory, and team mentoring.
+        Key Contribution 
+          - Design and review Microsoft security solutions using Microsoft Sentinel, Microsoft
+            Defender, Microsoft Security Exposure Management, security monitoring, detection
+            engineering, SOAR automation, and security analytics.
+          - Lead Microsoft Purview initiatives covering Information Protection, DLP, data governance,
+            compliance, and endpoint information protection.
+          - Architect Power BI and security/cost dashboards for executive reporting, cloud cost
+            visibility, security posture, exposure management, and operational metrics.
+          - Lead AI governance and AI cost optimization initiatives, including AI resource
+            consumption monitoring, budget governance, cost containment, and automation strategies.
+          - Design Copilot and MCP-based enterprise use cases, integrating AI-assisted workflows
+            with Microsoft cloud services and business data.
+experiences:
     - role: Senior Managing Consultant 
-      time: Oct 2022 - Present
+      time: Oct 2022 - Jan 2025
       company: Mannai Corp
       details: |
-        Currently working as a Senior Managing Consultant at Mannai Corp. helping customers implementing 
-        Microsoft Security Products at scale and educating them to derive the best out of it.
+        Served as a Senior Managing Consultant, advising clients on the design, implementation, 
+        optimization, and modernization of Microsoft security solutions at enterprise scale. 
+        Worked closely with security and cloud teams to translate business and security requirements 
+        into scalable, secure, and operationally effective Azure solutions.
         Key Contribution 
           - Work closely with SOC automation related to the playbook, Analytical rule.
           - Expertise in analysis, writing kql , analytical query based on the use case.
@@ -133,14 +164,28 @@ projects:
       Working based on user story and task assigned for related project using .Net Core MVC,
       Angular, MSSQL, Azure, KustoQuery, LogicApps, Powershell script, Web API etc.      
     assignments:
-      - title: SX3 (in-house project)
+      - title: Microsoft Security & Security Operations
         link: "#hook"
-        tagline: "Working on the Development of SOC portal with Azure sentinel and salesforce ticketing system."
+        tagline: "Designing and reviewing Microsoft Sentinel, Defender, and Security Exposure Management
+          solutions including detection engineering, KQL, security monitoring, SOAR automation,
+          workbooks, and security posture improvement."
         
-      - title: CONA
+      - title: Microsoft Purview & Data Governance
         link: "#hook"
-        tagline: "Successfully review and implemented the existing different type of java script and suggest 
-                  latest solution available for that script."
+        tagline: "Supporting Microsoft Purview implementation covering Information Protection, DLP,
+          compliance, data governance, endpoint protection, roles, policies, and implementation
+          readiness."
+          
+       - title: Copilot & MCP Enterprise Solutions
+        link: "#hook"
+        tagline: "Designing AI-assisted enterprise use cases using Microsoft Copilot and MCP, including
+          chat-based approaches for querying business data and replacing traditional manual
+          SharePoint filtering and search workflows."
+          
+        - title: Security & Cost Analytics – Power BI
+        link: "#hook"
+        tagline: "Designing executive Power BI dashboards for security posture, exposure management,
+          cloud and AI cost visibility, operational metrics, and governance reporting."
          
 skills:
     title: Skills &amp; Proficiency
