@@ -161,8 +161,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Working based on user story and task assigned for related project using .Net Core MVC,
-      Angular, MSSQL, Azure, KustoQuery, LogicApps, Powershell script, Web API etc.      
+      Working as a Technical Architect, responsible for designing, implementing, reviewing, and guiding solutions based on business requirements, user stories, and project objectives. Experienced in Microsoft Security and Cloud technologies, including Microsoft Sentinel, Microsoft Defender, Microsoft Purview, Microsoft Entra ID, Azure, KQL, Azure Logic Apps, PowerShell, APIs, .NET Core, Angular, and MS SQL Server.      
     assignments:
       - title: Microsoft Security & Security Operations
         link: "#hook"
@@ -177,14 +176,14 @@ projects:
           readiness."
           
        - title: Copilot & MCP Enterprise Solutions
-        link: "#hook"
-        tagline: "Designing AI-assisted enterprise use cases using Microsoft Copilot and MCP, including
+         link: "#hook"
+         tagline: "Designing AI-assisted enterprise use cases using Microsoft Copilot and MCP, including
           chat-based approaches for querying business data and replacing traditional manual
           SharePoint filtering and search workflows."
           
         - title: Security & Cost Analytics – Power BI
-        link: "#hook"
-        tagline: "Designing executive Power BI dashboards for security posture, exposure management,
+          link: "#hook"
+          tagline: "Designing executive Power BI dashboards for security posture, exposure management,
           cloud and AI cost visibility, operational metrics, and governance reporting."
          
 skills:
