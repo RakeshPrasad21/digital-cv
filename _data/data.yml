@@ -163,27 +163,27 @@ projects:
     intro: >
       Working as a Technical Architect, responsible for designing, implementing, reviewing, and guiding solutions based on business requirements, user stories, and project objectives. Experienced in Microsoft Security and Cloud technologies, including Microsoft Sentinel, Microsoft Defender, Microsoft Purview, Microsoft Entra ID, Azure, KQL, Azure Logic Apps, PowerShell, APIs, .NET Core, Angular, and MS SQL Server.      
     assignments:
-      - title: Microsoft Security & Security Operations
-        link: "#hook"
-        tagline: "Designing and reviewing Microsoft Sentinel, Defender, and Security Exposure Management
+    - title: Microsoft Security & Security Operations
+      link: "#hook"
+      tagline: "Designing and reviewing Microsoft Sentinel, Defender, and Security Exposure Management
           solutions including detection engineering, KQL, security monitoring, SOAR automation,
           workbooks, and security posture improvement."
         
-      - title: Microsoft Purview & Data Governance
-        link: "#hook"
-        tagline: "Supporting Microsoft Purview implementation covering Information Protection, DLP,
+     - title: Microsoft Purview & Data Governance
+       link: "#hook"
+       tagline: "Supporting Microsoft Purview implementation covering Information Protection, DLP,
           compliance, data governance, endpoint protection, roles, policies, and implementation
           readiness."
           
-       - title: Copilot & MCP Enterprise Solutions
-         link: "#hook"
-         tagline: "Designing AI-assisted enterprise use cases using Microsoft Copilot and MCP, including
+      - title: Copilot & MCP Enterprise Solutions
+        link: "#hook"
+        tagline: "Designing AI-assisted enterprise use cases using Microsoft Copilot and MCP, including
           chat-based approaches for querying business data and replacing traditional manual
           SharePoint filtering and search workflows."
           
-        - title: Security & Cost Analytics – Power BI
-          link: "#hook"
-          tagline: "Designing executive Power BI dashboards for security posture, exposure management,
+       - title: Security & Cost Analytics – Power BI
+         link: "#hook"
+         tagline: "Designing executive Power BI dashboards for security posture, exposure management,
           cloud and AI cost visibility, operational metrics, and governance reporting."
          
 skills:
